@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+*.db
+settings.json
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+
+# Large model files — download separately (see README)
+assets/face_landmarker.task
+
+# OS files
+.DS_Store
+Thumbs.db
