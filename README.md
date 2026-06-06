@@ -35,9 +35,9 @@ LagroEyewear is a desktop application that uses your webcam and computer vision 
 ## 📸 Screenshots
 
 *Main dashboard with live webcam feed, blink rate stats, and break countdown*
-![LagroEyewear Dashboard](assets/screenshot1.png)
+![LagroEyewear Dashboard](assets/Screenshot1.png)
 
-![LagroEyewear Break Overlay](assets/screenshot2.png)
+![LagroEyewear Break Overlay](assets/Screenshot2.png)
 ## 🧠 How It Works
 
 ### Eye Aspect Ratio (EAR)
